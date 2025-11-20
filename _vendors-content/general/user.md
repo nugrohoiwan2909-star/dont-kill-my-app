@@ -1,7 +1,7 @@
----
+---infinix
 manufacturer:
     - general
----
+--infix-
 
 ### Android 6+
 
